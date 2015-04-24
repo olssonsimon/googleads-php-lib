@@ -1,6 +1,4 @@
 {
-    "name": "olssonsimon/googleads-php-lib",
-    "type": "library",
     "include-path": ["src/"],
     "autoload": {
       "classmap": [
